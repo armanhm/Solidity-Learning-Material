@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "solc": "^0.8.6"
+  },
+  "name": "inbox",
+  "version": "1.0.0",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
